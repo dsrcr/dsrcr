@@ -1,7 +1,7 @@
 # Hi 👋, I'm Filip
 
 ### Software Engineer from Poland
-- 🔭 Currently working on my Rust projects
+- 🔭 Currently working on my webdev/native skills
 
 - 💻 [Repos](https://github.com/dsrcr?tab=repositories)
 
