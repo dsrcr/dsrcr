@@ -1,4 +1,4 @@
-# 👋
+# Migrating from GitHub
 - 🔭 Currently working on my rust/iot stuff
 
 - 💻 [Repos](https://github.com/dsrcr?tab=repositories)
